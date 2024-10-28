@@ -1,0 +1,7 @@
+/* src/index.css */
+@import "animate.css"; /* Import animate.css first */
+@import "@fortawesome/fontawesome-free/css/all.css"; /* Corrected FontAwesome import */
+
+@tailwind base; /* Tailwind's base styles */
+@tailwind components; /* Tailwind's component styles */
+@tailwind utilities; /* Tailwind's utility styles */

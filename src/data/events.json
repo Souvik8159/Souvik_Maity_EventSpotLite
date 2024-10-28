@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Tech Conference",
+        "date": "2024-12-05",
+        "location": "Convention Center",
+        "description": "Join industry leaders and innovators at this tech event.",
+        "image": "https://www.techopedia.com/wp-content/uploads/2024/02/1706884145604_processed.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Food Carnival",
+        "date": "2024-11-15",
+        "location": "City Square",
+        "description": "Sample food from around the world.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSESVBZSjjYmxTR8JwyLxsJH9-Ob4eqf5c0jQ&s"
+    },
+    {
+        "id": 3,
+        "name": "Charity Run",
+        "date": "2024-11-25",
+        "location": "Riverfront Park",
+        "description": "Participate in a charity run to support local causes.",
+        "image": "https://cdn.prod.website-files.com/612f5131b9c94eda2fe9c725/612f5131b9c94efdc4e9ce45_61150537afd4f21f4ab88010_604ae4d38cd70f35b47b4d79_charity2520run.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Halloween Parade",
+        "date": "2024-10-31",
+        "location": "Main Street",
+        "description": "Join us for a spooky parade with costumes and floats!",
+        "image": "https://www.denverpost.com/wp-content/uploads/2023/10/TDP-L-halloweenparade102123-cha-2304.jpg?w=640"
+    },
+    {
+        "id": 5,
+        "name": "Book Fair",
+        "date": "2024-11-28",
+        "location": "City Library",
+        "description": "A fair showcasing local authors and their works.",
+        "image": "https://www.slj.com/binaries/content/gallery/Jlibrary/2023/08/2308-partnering-indie-bookstores-a.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Farmers Market",
+        "date": "2024-11-01",
+        "location": "Downtown",
+        "description": "Fresh produce and local goods from local farmers.",
+        "image": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2021/08/farmers-market-produce-0812211.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Outdoor Movie Night",
+        "date": "2024-11-07",
+        "location": "Community Park",
+        "description": "Enjoy a movie under the stars with friends and family.",
+        "image": "https://savor.us/cdn/shop/articles/Outdoor_movie.jpg?v=1533094315"
+    },
+    {
+        "id": 8,
+        "name": "Jazz Night",
+        "date": "2024-11-12",
+        "location": "Jazz Club",
+        "description": "An evening filled with live jazz performances.",
+        "image": "https://images.squarespace-cdn.com/content/v1/62502cbe020d59057d88d958/080907e5-94d6-491d-9c60-3d8099731559/patterns-by-angry-jalebi-62.jpg"
+    }
+]
